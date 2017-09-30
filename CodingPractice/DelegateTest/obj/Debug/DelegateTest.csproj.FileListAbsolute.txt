@@ -1,0 +1,6 @@
+C:\Users\Homer.Chen\Desktop\CodingPractice\DelegateTest\bin\Debug\DelegateTest.exe.config
+C:\Users\Homer.Chen\Desktop\CodingPractice\DelegateTest\bin\Debug\DelegateTest.exe
+C:\Users\Homer.Chen\Desktop\CodingPractice\DelegateTest\bin\Debug\DelegateTest.pdb
+C:\Users\Homer.Chen\Desktop\CodingPractice\DelegateTest\obj\Debug\DelegateTest.csprojResolveAssemblyReference.cache
+C:\Users\Homer.Chen\Desktop\CodingPractice\DelegateTest\obj\Debug\DelegateTest.exe
+C:\Users\Homer.Chen\Desktop\CodingPractice\DelegateTest\obj\Debug\DelegateTest.pdb

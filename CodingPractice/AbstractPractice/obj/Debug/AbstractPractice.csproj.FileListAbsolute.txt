@@ -1,0 +1,17 @@
+C:\Users\Homer.Chen\Desktop\AbstractPractice\AbstractPractice\bin\Debug\AbstractPractice.exe.config
+C:\Users\Homer.Chen\Desktop\AbstractPractice\AbstractPractice\obj\Debug\AbstractPractice.Form1.resources
+C:\Users\Homer.Chen\Desktop\AbstractPractice\AbstractPractice\obj\Debug\AbstractPractice.Properties.Resources.resources
+C:\Users\Homer.Chen\Desktop\AbstractPractice\AbstractPractice\obj\Debug\AbstractPractice.csproj.GenerateResource.Cache
+C:\Users\Homer.Chen\Desktop\AbstractPractice\AbstractPractice\bin\Debug\AbstractPractice.exe
+C:\Users\Homer.Chen\Desktop\AbstractPractice\AbstractPractice\bin\Debug\AbstractPractice.pdb
+C:\Users\Homer.Chen\Desktop\AbstractPractice\AbstractPractice\obj\Debug\AbstractPractice.exe
+C:\Users\Homer.Chen\Desktop\AbstractPractice\AbstractPractice\obj\Debug\AbstractPractice.pdb
+C:\Users\Homer.Chen\Desktop\CodingPractice\AbstractPractice\bin\Debug\AbstractPractice.exe.config
+C:\Users\Homer.Chen\Desktop\CodingPractice\AbstractPractice\bin\Debug\AbstractPractice.exe
+C:\Users\Homer.Chen\Desktop\CodingPractice\AbstractPractice\bin\Debug\AbstractPractice.pdb
+C:\Users\Homer.Chen\Desktop\CodingPractice\AbstractPractice\obj\Debug\AbstractPractice.csprojResolveAssemblyReference.cache
+C:\Users\Homer.Chen\Desktop\CodingPractice\AbstractPractice\obj\Debug\AbstractPractice.Form1.resources
+C:\Users\Homer.Chen\Desktop\CodingPractice\AbstractPractice\obj\Debug\AbstractPractice.Properties.Resources.resources
+C:\Users\Homer.Chen\Desktop\CodingPractice\AbstractPractice\obj\Debug\AbstractPractice.csproj.GenerateResource.Cache
+C:\Users\Homer.Chen\Desktop\CodingPractice\AbstractPractice\obj\Debug\AbstractPractice.exe
+C:\Users\Homer.Chen\Desktop\CodingPractice\AbstractPractice\obj\Debug\AbstractPractice.pdb
