@@ -4,3 +4,6 @@ C:\Users\Homer.Chen\Desktop\CodingPractice\DelegateTest\bin\Debug\DelegateTest.p
 C:\Users\Homer.Chen\Desktop\CodingPractice\DelegateTest\obj\Debug\DelegateTest.csprojResolveAssemblyReference.cache
 C:\Users\Homer.Chen\Desktop\CodingPractice\DelegateTest\obj\Debug\DelegateTest.exe
 C:\Users\Homer.Chen\Desktop\CodingPractice\DelegateTest\obj\Debug\DelegateTest.pdb
+D:\Git\CodingPractice\CodingPractice\DelegateTest\bin\Debug\DelegateTest.exe.config
+D:\Git\CodingPractice\CodingPractice\DelegateTest\obj\Debug\DelegateTest.exe
+D:\Git\CodingPractice\CodingPractice\DelegateTest\obj\Debug\DelegateTest.pdb

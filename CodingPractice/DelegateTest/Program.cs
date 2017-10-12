@@ -22,7 +22,7 @@ namespace DelegateTest
 
         public void test(object o)
         {
-            var qq = o as Data;
+            var qq = o as Data;//向下轉型，qq才能使用Data的成員。Data:qq
             Console.WriteLine(qq.Name + qq.Age);
             Console.ReadLine();
         }
