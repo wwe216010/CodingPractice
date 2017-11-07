@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateAction", "DelegateA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatePractice", "DelegatePractice\DelegatePractice.csproj", "{A05A770D-0661-4FE0-9B73-B8FDE725F1DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatePractice2", "DelegatePractice2\DelegatePractice2.csproj", "{58C83123-735B-4F31-87E8-CFA680D723A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethoParamOutRefTest", "MethoParamOutRefTest\MethoParamOutRefTest.csproj", "{722E5CC3-40AF-4787-8CC6-91DF896B9C7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{A05A770D-0661-4FE0-9B73-B8FDE725F1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A05A770D-0661-4FE0-9B73-B8FDE725F1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A05A770D-0661-4FE0-9B73-B8FDE725F1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C83123-735B-4F31-87E8-CFA680D723A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C83123-735B-4F31-87E8-CFA680D723A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C83123-735B-4F31-87E8-CFA680D723A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C83123-735B-4F31-87E8-CFA680D723A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{722E5CC3-40AF-4787-8CC6-91DF896B9C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722E5CC3-40AF-4787-8CC6-91DF896B9C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722E5CC3-40AF-4787-8CC6-91DF896B9C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722E5CC3-40AF-4787-8CC6-91DF896B9C7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

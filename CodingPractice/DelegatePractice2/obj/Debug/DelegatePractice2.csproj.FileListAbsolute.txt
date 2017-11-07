@@ -1,0 +1,11 @@
+D:\Git\CodingPractice\CodingPractice\DelegatePractice2\obj\Debug\DelegatePractice2.Properties.Resources.resources
+D:\Git\CodingPractice\CodingPractice\DelegatePractice2\obj\Debug\DelegatePractice2.UC_Child.resources
+D:\Git\CodingPractice\CodingPractice\DelegatePractice2\obj\Debug\DelegatePractice2.csproj.GenerateResource.Cache
+D:\Git\CodingPractice\CodingPractice\DelegatePractice2\bin\Debug\DelegatePractice2.exe.config
+D:\Git\CodingPractice\CodingPractice\DelegatePractice2\bin\Debug\DelegatePractice2.exe
+D:\Git\CodingPractice\CodingPractice\DelegatePractice2\bin\Debug\DelegatePractice2.pdb
+D:\Git\CodingPractice\CodingPractice\DelegatePractice2\obj\Debug\DelegatePractice2.exe
+D:\Git\CodingPractice\CodingPractice\DelegatePractice2\obj\Debug\DelegatePractice2.pdb
+D:\Git\CodingPractice\CodingPractice\DelegatePractice2\obj\Debug\DelegatePractice2.Form_Father.resources
+D:\Git\CodingPractice\CodingPractice\DelegatePractice2\obj\Debug\DelegatePractice2.FormController.resources
+D:\Git\CodingPractice\CodingPractice\DelegatePractice2\obj\Debug\DelegatePractice2.Form_Mother.resources
