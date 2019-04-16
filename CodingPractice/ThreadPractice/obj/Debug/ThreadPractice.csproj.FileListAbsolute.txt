@@ -1,0 +1,6 @@
+D:\Git\CodingPractice\CodingPractice\ThreadPractice\bin\Debug\ThreadPractice.exe.config
+D:\Git\CodingPractice\CodingPractice\ThreadPractice\bin\Debug\ThreadPractice.exe
+D:\Git\CodingPractice\CodingPractice\ThreadPractice\bin\Debug\ThreadPractice.pdb
+D:\Git\CodingPractice\CodingPractice\ThreadPractice\obj\Debug\ThreadPractice.exe
+D:\Git\CodingPractice\CodingPractice\ThreadPractice\obj\Debug\ThreadPractice.pdb
+D:\Git\CodingPractice\CodingPractice\ThreadPractice\obj\Debug\ThreadPractice.csprojResolveAssemblyReference.cache

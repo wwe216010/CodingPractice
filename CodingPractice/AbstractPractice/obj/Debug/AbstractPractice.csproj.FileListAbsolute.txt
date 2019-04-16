@@ -15,3 +15,12 @@ C:\Users\Homer.Chen\Desktop\CodingPractice\AbstractPractice\obj\Debug\AbstractPr
 C:\Users\Homer.Chen\Desktop\CodingPractice\AbstractPractice\obj\Debug\AbstractPractice.csproj.GenerateResource.Cache
 C:\Users\Homer.Chen\Desktop\CodingPractice\AbstractPractice\obj\Debug\AbstractPractice.exe
 C:\Users\Homer.Chen\Desktop\CodingPractice\AbstractPractice\obj\Debug\AbstractPractice.pdb
+D:\Git\CodingPractice\CodingPractice\AbstractPractice\bin\Debug\AbstractPractice.exe.config
+D:\Git\CodingPractice\CodingPractice\AbstractPractice\bin\Debug\AbstractPractice.exe
+D:\Git\CodingPractice\CodingPractice\AbstractPractice\bin\Debug\AbstractPractice.pdb
+D:\Git\CodingPractice\CodingPractice\AbstractPractice\obj\Debug\AbstractPractice.csprojResolveAssemblyReference.cache
+D:\Git\CodingPractice\CodingPractice\AbstractPractice\obj\Debug\AbstractPractice.Form1.resources
+D:\Git\CodingPractice\CodingPractice\AbstractPractice\obj\Debug\AbstractPractice.Properties.Resources.resources
+D:\Git\CodingPractice\CodingPractice\AbstractPractice\obj\Debug\AbstractPractice.csproj.GenerateResource.Cache
+D:\Git\CodingPractice\CodingPractice\AbstractPractice\obj\Debug\AbstractPractice.exe
+D:\Git\CodingPractice\CodingPractice\AbstractPractice\obj\Debug\AbstractPractice.pdb

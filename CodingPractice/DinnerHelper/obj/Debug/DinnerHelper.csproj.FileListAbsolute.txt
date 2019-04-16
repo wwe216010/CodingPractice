@@ -1,0 +1,8 @@
+D:\Git\CodingPractice\CodingPractice\DinnerHelper\obj\Debug\DinnerHelper.Form1.resources
+D:\Git\CodingPractice\CodingPractice\DinnerHelper\obj\Debug\DinnerHelper.Properties.Resources.resources
+D:\Git\CodingPractice\CodingPractice\DinnerHelper\obj\Debug\DinnerHelper.csproj.GenerateResource.Cache
+D:\Git\CodingPractice\CodingPractice\DinnerHelper\bin\Debug\DinnerHelper.exe.config
+D:\Git\CodingPractice\CodingPractice\DinnerHelper\bin\Debug\DinnerHelper.exe
+D:\Git\CodingPractice\CodingPractice\DinnerHelper\bin\Debug\DinnerHelper.pdb
+D:\Git\CodingPractice\CodingPractice\DinnerHelper\obj\Debug\DinnerHelper.exe
+D:\Git\CodingPractice\CodingPractice\DinnerHelper\obj\Debug\DinnerHelper.pdb

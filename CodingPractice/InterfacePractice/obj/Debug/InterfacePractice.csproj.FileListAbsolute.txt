@@ -16,3 +16,12 @@ C:\Users\Homer.Chen\Desktop\CodingPractice\InterfacePractice\obj\Debug\Interface
 C:\Users\Homer.Chen\Desktop\CodingPractice\InterfacePractice\obj\Debug\InterfacePractice.csproj.GenerateResource.Cache
 C:\Users\Homer.Chen\Desktop\CodingPractice\InterfacePractice\obj\Debug\InterfacePractice.exe
 C:\Users\Homer.Chen\Desktop\CodingPractice\InterfacePractice\obj\Debug\InterfacePractice.pdb
+D:\Git\CodingPractice\CodingPractice\InterfacePractice\bin\Debug\InterfacePractice.exe.config
+D:\Git\CodingPractice\CodingPractice\InterfacePractice\bin\Debug\InterfacePractice.exe
+D:\Git\CodingPractice\CodingPractice\InterfacePractice\bin\Debug\InterfacePractice.pdb
+D:\Git\CodingPractice\CodingPractice\InterfacePractice\obj\Debug\InterfacePractice.csprojResolveAssemblyReference.cache
+D:\Git\CodingPractice\CodingPractice\InterfacePractice\obj\Debug\InterfacePractice.Form1.resources
+D:\Git\CodingPractice\CodingPractice\InterfacePractice\obj\Debug\InterfacePractice.Properties.Resources.resources
+D:\Git\CodingPractice\CodingPractice\InterfacePractice\obj\Debug\InterfacePractice.csproj.GenerateResource.Cache
+D:\Git\CodingPractice\CodingPractice\InterfacePractice\obj\Debug\InterfacePractice.exe
+D:\Git\CodingPractice\CodingPractice\InterfacePractice\obj\Debug\InterfacePractice.pdb

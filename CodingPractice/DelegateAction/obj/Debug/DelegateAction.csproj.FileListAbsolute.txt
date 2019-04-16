@@ -1,6 +1,5 @@
 D:\Git\CodingPractice\CodingPractice\DelegateAction\bin\Debug\DelegateAction.exe.config
 D:\Git\CodingPractice\CodingPractice\DelegateAction\bin\Debug\DelegateAction.exe
 D:\Git\CodingPractice\CodingPractice\DelegateAction\bin\Debug\DelegateAction.pdb
-D:\Git\CodingPractice\CodingPractice\DelegateAction\obj\Debug\DelegateAction.csprojResolveAssemblyReference.cache
 D:\Git\CodingPractice\CodingPractice\DelegateAction\obj\Debug\DelegateAction.exe
 D:\Git\CodingPractice\CodingPractice\DelegateAction\obj\Debug\DelegateAction.pdb

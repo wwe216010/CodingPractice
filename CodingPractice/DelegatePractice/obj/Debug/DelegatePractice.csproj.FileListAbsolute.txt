@@ -3,4 +3,3 @@ D:\Git\CodingPractice\CodingPractice\DelegatePractice\bin\Debug\DelegatePractice
 D:\Git\CodingPractice\CodingPractice\DelegatePractice\bin\Debug\DelegatePractice.pdb
 D:\Git\CodingPractice\CodingPractice\DelegatePractice\obj\Debug\DelegatePractice.exe
 D:\Git\CodingPractice\CodingPractice\DelegatePractice\obj\Debug\DelegatePractice.pdb
-D:\Git\CodingPractice\CodingPractice\DelegatePractice\obj\Debug\DelegatePractice.csprojResolveAssemblyReference.cache

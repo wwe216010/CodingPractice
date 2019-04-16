@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Index", "AttributeTest", FormMethod.Post))
+{
+    <select name="sel">
+        <option value="I">Internal</option>
+        <option value="E">External</option>
+    </select>
+
+    <div>
+        <input type="submit">
+    </div>   
+}
+
+

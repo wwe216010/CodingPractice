@@ -1,0 +1,9 @@
+D:\Git\CodingPractice\CodingPractice\WindowsServicePractice\bin\Debug\WindowsServicePractice.exe.config
+D:\Git\CodingPractice\CodingPractice\WindowsServicePractice\bin\Debug\WindowsServicePractice.exe
+D:\Git\CodingPractice\CodingPractice\WindowsServicePractice\bin\Debug\WindowsServicePractice.pdb
+D:\Git\CodingPractice\CodingPractice\WindowsServicePractice\obj\Debug\WindowsServicePractice.csprojResolveAssemblyReference.cache
+D:\Git\CodingPractice\CodingPractice\WindowsServicePractice\obj\Debug\WindowsServicePractice.ProjectInstaller.resources
+D:\Git\CodingPractice\CodingPractice\WindowsServicePractice\obj\Debug\WindowsServicePractice.Service1.resources
+D:\Git\CodingPractice\CodingPractice\WindowsServicePractice\obj\Debug\WindowsServicePractice.csproj.GenerateResource.Cache
+D:\Git\CodingPractice\CodingPractice\WindowsServicePractice\obj\Debug\WindowsServicePractice.exe
+D:\Git\CodingPractice\CodingPractice\WindowsServicePractice\obj\Debug\WindowsServicePractice.pdb

@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Net;
+using System.Net.Sockets;
 
 namespace DelegateTest
 {
@@ -12,6 +14,7 @@ namespace DelegateTest
 
         static void Main(string[] args)
         {
+
             Data data = new Data { Name = "Hao", Age = 30 };
 
 

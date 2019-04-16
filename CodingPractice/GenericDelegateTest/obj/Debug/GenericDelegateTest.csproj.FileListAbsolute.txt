@@ -1,0 +1,5 @@
+D:\Git\CodingPractice\CodingPractice\GenericDelegateTest\bin\Debug\GenericDelegateTest.exe.config
+D:\Git\CodingPractice\CodingPractice\GenericDelegateTest\bin\Debug\GenericDelegateTest.exe
+D:\Git\CodingPractice\CodingPractice\GenericDelegateTest\bin\Debug\GenericDelegateTest.pdb
+D:\Git\CodingPractice\CodingPractice\GenericDelegateTest\obj\Debug\GenericDelegateTest.exe
+D:\Git\CodingPractice\CodingPractice\GenericDelegateTest\obj\Debug\GenericDelegateTest.pdb

@@ -32,14 +32,19 @@ namespace AbstractPractice
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Duck duck = new Duck();
-            MessageBox.Show(duck.Name + duck.Eat() + duck.Fly());            
+            //Duck duck = new Duck();
+            //MessageBox.Show(duck.Name + duck.Eat() + duck.Fly());
+            Duck2 d = new Duck2();
+            if (d is Duck)
+	        {
+                d.Fly();
+	        }
         }
     }
 
-    abstract class Birds
+     abstract class Birds
     {
-        abstract public string Fly();
+        //abstract public string Fly();
 
         public string Name = "I am a Bird,";
 
@@ -48,11 +53,16 @@ namespace AbstractPractice
         }
     }
 
-    class Duck:Birds
+    abstract class Duck:Birds
+    {
+        public abstract string Fly();
+    }
+
+    class Duck2 : Duck
     {
         public override string Fly()
         {
-            return "I cant fly more high!!";
+            return "I can fly more high";
         }
     }
 }

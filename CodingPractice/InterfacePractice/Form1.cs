@@ -65,4 +65,33 @@ namespace InterfacePractice
 
         void fly();             
     }
+
+    public interface ICanFly2
+    {
+        void fly2();
+    }
+
+    public class qq : TestClass1, ICanFly
+    {
+        private string name = "1";
+        public string Name { get { return "0"; } set { value = name; } }
+        public void fly()
+        {
+            
+        }
+    }
+
+    public class TestClass1:TestClass2
+    {
+        qq aa = new qq();
+    }
+
+    public class TestClass2 : ICanFly2
+    {
+        public void fly2()
+        {
+
+        }
+    }
 }
+

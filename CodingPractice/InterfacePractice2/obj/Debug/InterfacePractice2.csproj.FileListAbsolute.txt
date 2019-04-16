@@ -1,0 +1,7 @@
+D:\Git\CodingPractice\CodingPractice\InterfacePractice2\obj\Debug\InterfacePractice2.Properties.Resources.resources
+D:\Git\CodingPractice\CodingPractice\InterfacePractice2\obj\Debug\InterfacePractice2.csproj.GenerateResource.Cache
+D:\Git\CodingPractice\CodingPractice\InterfacePractice2\bin\Debug\InterfacePractice2.exe.config
+D:\Git\CodingPractice\CodingPractice\InterfacePractice2\bin\Debug\InterfacePractice2.exe
+D:\Git\CodingPractice\CodingPractice\InterfacePractice2\bin\Debug\InterfacePractice2.pdb
+D:\Git\CodingPractice\CodingPractice\InterfacePractice2\obj\Debug\InterfacePractice2.exe
+D:\Git\CodingPractice\CodingPractice\InterfacePractice2\obj\Debug\InterfacePractice2.pdb

@@ -9,3 +9,4 @@ D:\Git\CodingPractice\CodingPractice\DelegatePractice2\obj\Debug\DelegatePractic
 D:\Git\CodingPractice\CodingPractice\DelegatePractice2\obj\Debug\DelegatePractice2.Form_Father.resources
 D:\Git\CodingPractice\CodingPractice\DelegatePractice2\obj\Debug\DelegatePractice2.FormController.resources
 D:\Git\CodingPractice\CodingPractice\DelegatePractice2\obj\Debug\DelegatePractice2.Form_Mother.resources
+D:\Git\CodingPractice\CodingPractice\DelegatePractice2\obj\Debug\DelegatePractice2.csprojResolveAssemblyReference.cache
